@@ -1,0 +1,9 @@
+1. Selects type of reservation
+2. Input trip details: location, dates, # of guests
+3. Select hotel
+4. Select room
+5. Log in
+6. Input personal information
+7. Input payment details
+8. Confirm and submit information
+9. Recieve email confirmation
