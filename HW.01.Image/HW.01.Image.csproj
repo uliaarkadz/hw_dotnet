@@ -6,4 +6,10 @@
     <RootNamespace>HW._01.Image</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="image\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="image\" />
+  </ItemGroup>
 </Project>
