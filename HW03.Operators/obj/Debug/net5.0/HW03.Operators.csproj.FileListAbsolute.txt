@@ -1,0 +1,15 @@
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/bin/Debug/net5.0/HW03.Operators.deps.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/bin/Debug/net5.0/HW03.Operators.runtimeconfig.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/bin/Debug/net5.0/HW03.Operators.runtimeconfig.dev.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/bin/Debug/net5.0/HW03.Operators.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/bin/Debug/net5.0/ref/HW03.Operators.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/bin/Debug/net5.0/HW03.Operators.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/obj/Debug/net5.0/HW03.Operators.csproj.AssemblyReference.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/obj/Debug/net5.0/HW03.Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/obj/Debug/net5.0/HW03.Operators.AssemblyInfoInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/obj/Debug/net5.0/HW03.Operators.AssemblyInfo.cs
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/obj/Debug/net5.0/HW03.Operators.csproj.CoreCompileInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/obj/Debug/net5.0/HW03.Operators.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/obj/Debug/net5.0/ref/HW03.Operators.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/obj/Debug/net5.0/HW03.Operators.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Operators/obj/Debug/net5.0/HW03.Operators.genruntimeconfig.cache
