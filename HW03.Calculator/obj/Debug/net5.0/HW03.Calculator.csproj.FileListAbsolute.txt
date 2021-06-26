@@ -1,0 +1,15 @@
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/bin/Debug/net5.0/HW03.Calculator.deps.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/bin/Debug/net5.0/HW03.Calculator.runtimeconfig.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/bin/Debug/net5.0/HW03.Calculator.runtimeconfig.dev.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/bin/Debug/net5.0/HW03.Calculator.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/bin/Debug/net5.0/ref/HW03.Calculator.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/bin/Debug/net5.0/HW03.Calculator.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/obj/Debug/net5.0/HW03.Calculator.csproj.AssemblyReference.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/obj/Debug/net5.0/HW03.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/obj/Debug/net5.0/HW03.Calculator.AssemblyInfoInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/obj/Debug/net5.0/HW03.Calculator.AssemblyInfo.cs
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/obj/Debug/net5.0/HW03.Calculator.csproj.CoreCompileInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/obj/Debug/net5.0/HW03.Calculator.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/obj/Debug/net5.0/ref/HW03.Calculator.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/obj/Debug/net5.0/HW03.Calculator.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Calculator/obj/Debug/net5.0/HW03.Calculator.genruntimeconfig.cache

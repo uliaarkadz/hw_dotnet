@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALPHABET", "ALPHABET\ALPHAB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Birthday", "HW03.Birthday\HW03.Birthday.csproj", "{4D2A5FD7-CD7C-478E-AC0E-78F044D84002}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Calculator", "HW03.Calculator\HW03.Calculator.csproj", "{DE2475B3-FB5A-474F-9DA3-46513DED4E75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{4D2A5FD7-CD7C-478E-AC0E-78F044D84002}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D2A5FD7-CD7C-478E-AC0E-78F044D84002}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D2A5FD7-CD7C-478E-AC0E-78F044D84002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2475B3-FB5A-474F-9DA3-46513DED4E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2475B3-FB5A-474F-9DA3-46513DED4E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2475B3-FB5A-474F-9DA3-46513DED4E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2475B3-FB5A-474F-9DA3-46513DED4E75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
