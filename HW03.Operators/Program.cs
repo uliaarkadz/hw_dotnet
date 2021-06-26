@@ -36,7 +36,10 @@ namespace HW03.Operators
                        addresult == resultFromInput)
                 {
                     if (addresult == Convert.ToInt32(resultFromInput))
+                    {
                         Console.WriteLine("\nCorrect! The sum of two numbers is : {0} \n", addresult);
+                        break;
+                    }
                     else if (addresult > resultFromInput)
                     {
                         Console.WriteLine("\nThe answer should be greater, try again\n");
