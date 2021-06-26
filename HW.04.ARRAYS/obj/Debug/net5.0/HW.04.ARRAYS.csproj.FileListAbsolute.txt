@@ -1,0 +1,15 @@
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/bin/Debug/net5.0/HW.04.ARRAYS.deps.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/bin/Debug/net5.0/HW.04.ARRAYS.runtimeconfig.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/bin/Debug/net5.0/HW.04.ARRAYS.runtimeconfig.dev.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/bin/Debug/net5.0/HW.04.ARRAYS.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/bin/Debug/net5.0/ref/HW.04.ARRAYS.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/bin/Debug/net5.0/HW.04.ARRAYS.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/obj/Debug/net5.0/HW.04.ARRAYS.csproj.AssemblyReference.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/obj/Debug/net5.0/HW.04.ARRAYS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/obj/Debug/net5.0/HW.04.ARRAYS.AssemblyInfoInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/obj/Debug/net5.0/HW.04.ARRAYS.AssemblyInfo.cs
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/obj/Debug/net5.0/HW.04.ARRAYS.csproj.CoreCompileInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/obj/Debug/net5.0/HW.04.ARRAYS.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/obj/Debug/net5.0/ref/HW.04.ARRAYS.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/obj/Debug/net5.0/HW.04.ARRAYS.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW.04.ARRAYS/obj/Debug/net5.0/HW.04.ARRAYS.genruntimeconfig.cache
