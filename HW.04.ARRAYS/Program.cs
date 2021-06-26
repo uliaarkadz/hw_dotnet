@@ -13,7 +13,7 @@ namespace HW._04.ARRAYS
            // SumOfTwoArrays();
            //InsertNewArrayElemet();
           
-           sw.Start();
+         /*  sw.Start();
             ReverseArray();
             //ReverseArrayWithReverse();
            sw.Stop();
@@ -23,8 +23,32 @@ namespace HW._04.ARRAYS
            ReverseArray();
            ReverseArrayWithReverse();
           sw.Stop();
-         Console.Write("\nRunTime 2 \n" + sw.Elapsed +"\n");
-           
+         Console.Write("\nRunTime 2 \n" + sw.Elapsed +"\n");*/
+         
+         InputSeparate();
+
+
+        }
+
+        private static void InputSeparate()
+        {
+            string poem;
+            string temp;
+            poem = Console.ReadLine();
+            string[] splitinput = poem.Split(';');
+            string[] newArray = new string[splitinput.Length];
+            Console.WriteLine("Reversed array: " + string.Join(",", splitinput));
+
+            for (int i = 0; i < splitinput.Length; i++)
+            {
+                temp = splitinput[i];
+                if (temp.ToLower().Contains('o'))
+                {
+                    temp = temp.Replace('o','a');
+                    splitinput[i] = temp;
+                }
+            }
+            Console.WriteLine("Reversed array: " + string.Join(",", splitinput));
 
         }
 
