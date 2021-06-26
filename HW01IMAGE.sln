@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Operators", "HW03.Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALPHABET", "ALPHABET\ALPHABET.csproj", "{70E697EC-F9DE-40FD-811F-B307A2C89D1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Birthday", "HW03.Birthday\HW03.Birthday.csproj", "{4D2A5FD7-CD7C-478E-AC0E-78F044D84002}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{70E697EC-F9DE-40FD-811F-B307A2C89D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70E697EC-F9DE-40FD-811F-B307A2C89D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70E697EC-F9DE-40FD-811F-B307A2C89D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2A5FD7-CD7C-478E-AC0E-78F044D84002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2A5FD7-CD7C-478E-AC0E-78F044D84002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2A5FD7-CD7C-478E-AC0E-78F044D84002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2A5FD7-CD7C-478E-AC0E-78F044D84002}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

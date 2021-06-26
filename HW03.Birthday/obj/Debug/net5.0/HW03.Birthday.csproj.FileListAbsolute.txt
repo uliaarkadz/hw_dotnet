@@ -1,0 +1,15 @@
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/bin/Debug/net5.0/HW03.Birthday.deps.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/bin/Debug/net5.0/HW03.Birthday.runtimeconfig.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/bin/Debug/net5.0/HW03.Birthday.runtimeconfig.dev.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/bin/Debug/net5.0/HW03.Birthday.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/bin/Debug/net5.0/ref/HW03.Birthday.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/bin/Debug/net5.0/HW03.Birthday.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/obj/Debug/net5.0/HW03.Birthday.csproj.AssemblyReference.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/obj/Debug/net5.0/HW03.Birthday.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/obj/Debug/net5.0/HW03.Birthday.AssemblyInfoInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/obj/Debug/net5.0/HW03.Birthday.AssemblyInfo.cs
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/obj/Debug/net5.0/HW03.Birthday.csproj.CoreCompileInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/obj/Debug/net5.0/HW03.Birthday.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/obj/Debug/net5.0/ref/HW03.Birthday.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/obj/Debug/net5.0/HW03.Birthday.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW03.Birthday/obj/Debug/net5.0/HW03.Birthday.genruntimeconfig.cache

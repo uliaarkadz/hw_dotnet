@@ -13,7 +13,7 @@ namespace HW03.Operators
             ReadOperator(out char operators);
             Console.Write("Enter Second Number: ");
             ReadInteger(out int b);
-            Console.Write("Enter Result of addition of two numbers: ");
+            Console.Write("Enter Result of operation: ");
             ReadInteger(out int resultFromInput);
             int addresult = 0;
             int subresult = 0;
