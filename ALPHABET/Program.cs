@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Alpabet
+namespace ALPHABET
 {
     class Program
     {

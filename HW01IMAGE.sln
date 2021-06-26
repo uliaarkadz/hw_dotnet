@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW01IMAGE", "HW01IMAGE\HW01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Operators", "HW03.Operators\HW03.Operators.csproj", "{39BA05AB-E323-4591-BBFC-9C4813A33AF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpabet", "Alpabet\Alpabet.csproj", "{70E697EC-F9DE-40FD-811F-B307A2C89D1C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALPHABET", "ALPHABET\ALPHABET.csproj", "{70E697EC-F9DE-40FD-811F-B307A2C89D1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
