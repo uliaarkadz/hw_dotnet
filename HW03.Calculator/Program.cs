@@ -12,8 +12,6 @@ namespace HW03.Calculator
             string operation;
             double answer;
             
-            
-            
             Calculator cal = new Calculator();
             
             Console.Write("Enter the first number");
@@ -26,15 +24,15 @@ namespace HW03.Calculator
             switch (operation)
             {
                 case "+":
-                    answer = cal.AddNumbers(Convert.ToDouble(firstNum),Convert.ToDouble(secondNum));
+                    answer = Calculator.AddNumbers(Convert.ToDouble(firstNum),Convert.ToDouble(secondNum));
                     Console.WriteLine(firstNum + " + " + secondNum + " = " + answer);
                     break;
                 case "-":
-                    answer = cal.SubstractNumbers(Convert.ToDouble(firstNum),Convert.ToDouble(secondNum));
+                    answer = Calculator.SubstractNumbers(Convert.ToDouble(firstNum),Convert.ToDouble(secondNum));
                     Console.WriteLine(firstNum + " - " + secondNum + " = " + answer);
                     break;
                 case "x":
-                    answer = cal.MultiplyNumbers(Convert.ToDouble(firstNum),Convert.ToDouble(secondNum));
+                    answer = Calculator.MultiplyNumbers(Convert.ToDouble(firstNum),Convert.ToDouble(secondNum));
                     Console.WriteLine(firstNum + " x " + secondNum + " = " + answer);
                     break;
                 case "/":
@@ -53,13 +51,10 @@ namespace HW03.Calculator
                     Console.WriteLine("No solution");
                     break;
             }
-            
-            
-            
-            
-            
+
             static void ReadInteger(out string input)
             {
+                
                  input = Console.ReadLine();
                  double n;
                  while (!double.TryParse(input, out n))
@@ -67,6 +62,7 @@ namespace HW03.Calculator
                      Console.WriteLine("Input is not a valid number; enter valid number");
                      input = Console.ReadLine();
                  }
+                 
             }
         }
     }

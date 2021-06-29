@@ -15,8 +15,10 @@ namespace HW03.Operators
             ReadInteger(out int b);
             Console.Write("Enter Result of operation: ");
             ReadInteger(out int resultFromInput);
+            
             int addresult = 0;
             int subresult = 0;
+            
             switch (operators)
             {
                 case '+':
@@ -62,8 +64,6 @@ namespace HW03.Operators
                         Console.WriteLine("\nCorrect! The sum of two numbers is : {0} \n", subresult);
                         break;
                     }
-                
-
                     else if (subresult > resultFromInput)
                     {
                         Console.WriteLine("\nThe answer should be greater, try again\n");
@@ -79,6 +79,7 @@ namespace HW03.Operators
 
             static void ReadOperator(out char input)
             {
+                
                 input = Convert.ToChar(Console.ReadLine());
                 char i;
                 while (!Char.TryParse(input.ToString(), out i))
@@ -86,10 +87,12 @@ namespace HW03.Operators
                     Console.WriteLine("Input is not a valid operator; enter valid");
                     input = Convert.ToChar(Console.ReadLine());
                 }
+                
             }
 
             static void ReadInteger(out int input)
             {
+                
                 input = Convert.ToInt32(Console.ReadLine());
                 int n;
                 while (!Int32.TryParse(input.ToString(), out n))
@@ -97,16 +100,21 @@ namespace HW03.Operators
                     Console.WriteLine("Input is not a valid number; enter valid number");
                     input = Convert.ToInt32(Console.ReadLine());
                 }
+                
             }
 
             static int AddTwoNumbers(int num1, int num2)
             {
+                
                 return num1 + num2;
+                
             }
 
             static int SubstractTwoNumbers(int num1, int num2)
             {
+                
                 return num1 - num2;
+                
             }
         }
     }
