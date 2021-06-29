@@ -1,0 +1,15 @@
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/bin/Debug/net5.0/Alpabet.deps.json
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/bin/Debug/net5.0/Alpabet.runtimeconfig.json
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/bin/Debug/net5.0/Alpabet.runtimeconfig.dev.json
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/bin/Debug/net5.0/Alpabet.dll
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/bin/Debug/net5.0/ref/Alpabet.dll
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/bin/Debug/net5.0/Alpabet.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/obj/Debug/net5.0/Alpabet.csproj.AssemblyReference.cache
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/obj/Debug/net5.0/Alpabet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/obj/Debug/net5.0/Alpabet.AssemblyInfoInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/obj/Debug/net5.0/Alpabet.AssemblyInfo.cs
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/obj/Debug/net5.0/Alpabet.csproj.CoreCompileInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/obj/Debug/net5.0/Alpabet.dll
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/obj/Debug/net5.0/ref/Alpabet.dll
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/obj/Debug/net5.0/Alpabet.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/Alpabet/obj/Debug/net5.0/Alpabet.genruntimeconfig.cache

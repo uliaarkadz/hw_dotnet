@@ -1,0 +1,15 @@
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/bin/Debug/net5.0/ALPHABET.deps.json
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/bin/Debug/net5.0/ALPHABET.runtimeconfig.json
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/bin/Debug/net5.0/ALPHABET.runtimeconfig.dev.json
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/bin/Debug/net5.0/ALPHABET.dll
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/bin/Debug/net5.0/ref/ALPHABET.dll
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/bin/Debug/net5.0/ALPHABET.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/obj/Debug/net5.0/ALPHABET.csproj.AssemblyReference.cache
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/obj/Debug/net5.0/ALPHABET.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/obj/Debug/net5.0/ALPHABET.AssemblyInfoInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/obj/Debug/net5.0/ALPHABET.AssemblyInfo.cs
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/obj/Debug/net5.0/ALPHABET.csproj.CoreCompileInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/obj/Debug/net5.0/ALPHABET.dll
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/obj/Debug/net5.0/ref/ALPHABET.dll
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/obj/Debug/net5.0/ALPHABET.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/ALPHABET/obj/Debug/net5.0/ALPHABET.genruntimeconfig.cache
