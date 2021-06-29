@@ -1,0 +1,15 @@
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/obj/Debug/net5.0/HW.05.QuadraticFormula.csproj.AssemblyReference.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/obj/Debug/net5.0/HW.05.QuadraticFormula.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/obj/Debug/net5.0/HW.05.QuadraticFormula.AssemblyInfoInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/obj/Debug/net5.0/HW.05.QuadraticFormula.AssemblyInfo.cs
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/obj/Debug/net5.0/HW.05.QuadraticFormula.csproj.CoreCompileInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/bin/Debug/net5.0/HW.05.QuadraticFormula.deps.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/bin/Debug/net5.0/HW.05.QuadraticFormula.runtimeconfig.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/bin/Debug/net5.0/HW.05.QuadraticFormula.runtimeconfig.dev.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/bin/Debug/net5.0/HW.05.QuadraticFormula.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/bin/Debug/net5.0/ref/HW.05.QuadraticFormula.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/bin/Debug/net5.0/HW.05.QuadraticFormula.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/obj/Debug/net5.0/HW.05.QuadraticFormula.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/obj/Debug/net5.0/ref/HW.05.QuadraticFormula.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/obj/Debug/net5.0/HW.05.QuadraticFormula.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.QuadraticFormula/obj/Debug/net5.0/HW.05.QuadraticFormula.genruntimeconfig.cache
