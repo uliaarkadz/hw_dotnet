@@ -1,0 +1,15 @@
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/obj/Debug/net5.0/HW.05.ARRAYS.CODEWARS.csproj.AssemblyReference.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/obj/Debug/net5.0/HW.05.ARRAYS.CODEWARS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/obj/Debug/net5.0/HW.05.ARRAYS.CODEWARS.AssemblyInfoInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/obj/Debug/net5.0/HW.05.ARRAYS.CODEWARS.AssemblyInfo.cs
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/obj/Debug/net5.0/HW.05.ARRAYS.CODEWARS.csproj.CoreCompileInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/bin/Debug/net5.0/HW.05.ARRAYS.CODEWARS.deps.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/bin/Debug/net5.0/HW.05.ARRAYS.CODEWARS.runtimeconfig.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/bin/Debug/net5.0/HW.05.ARRAYS.CODEWARS.runtimeconfig.dev.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/bin/Debug/net5.0/HW.05.ARRAYS.CODEWARS.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/bin/Debug/net5.0/ref/HW.05.ARRAYS.CODEWARS.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/bin/Debug/net5.0/HW.05.ARRAYS.CODEWARS.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/obj/Debug/net5.0/HW.05.ARRAYS.CODEWARS.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/obj/Debug/net5.0/ref/HW.05.ARRAYS.CODEWARS.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/obj/Debug/net5.0/HW.05.ARRAYS.CODEWARS.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW.05.ARRAYS.CODEWARS/obj/Debug/net5.0/HW.05.ARRAYS.CODEWARS.genruntimeconfig.cache
