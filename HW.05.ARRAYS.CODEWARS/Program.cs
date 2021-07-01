@@ -7,7 +7,7 @@ namespace HW._05.ARRAYS.CODEWARS
     {
         static void Main(string[] args)
         {
-            Task1();
+            Task2();
         }
 
         public static void Task1()
@@ -57,6 +57,64 @@ namespace HW._05.ARRAYS.CODEWARS
             }
 
             Console.WriteLine($"Result is : {result}");
+        }
+
+        public static void Task2()
+        {
+            /*Дана символьная строка, содержащая хотя бы один символ '?'.
+             Удалить все символы '!' или '.', расположенные до первого символа '?' и 
+             заменить все пробелы, расположенные за первым символом '?', на символ подчёркивания '_'.*/
+            
+            string myString = "1a!2.3!!.. 4.!.?6 7! ?..?";
+            int count = 0;
+            int index = 0;
+            //char question = '?';
+            foreach (char c in myString)
+            {
+                if (c == '?')
+                    count++;
+            }
+
+            char[] newArray = myString.ToCharArray();
+
+            for (int i = 0; i < myString.Length; i++)
+            {
+                if (myString[i] == '!' || myString[i] == '.')
+                {
+                    myString.Remove(i);
+                    if (myString[i] == '?')
+                    {
+                        count++;
+                        
+                    }
+                }
+                    
+            }
+
+            if (count > 1)
+            {
+                for (int i = 0; i < myString.Length; i++)
+                {
+                    if (myString[i] == '?')
+                        index = i;
+                            break;
+                }
+            }
+
+            /* for (int i = 0; i < myString.Length; i++)
+             {
+                 if (myString[i].Equals("?"))
+                         count ++;
+                 Console.WriteLine(myString[i]);
+             }*/
+            //int index = myString.IndexOf('?');
+            string output = myString.Substring(myString.IndexOf('?') + 1);
+            
+            Console.WriteLine($"Result is : {count}");
+            Console.WriteLine($"Index is : {index}");
+          //  Console.WriteLine($"Result is : {index}");
+            Console.WriteLine($"Result is : {output}");
+            
         }
     }
 }
