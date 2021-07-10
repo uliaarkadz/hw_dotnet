@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Text;
 
 namespace HW._05.ARRAYS.CODEWARS
@@ -7,7 +8,7 @@ namespace HW._05.ARRAYS.CODEWARS
     {
         static void Main(string[] args)
         {
-            Task2();
+            Task3();
         }
 
         public static void Task1()
@@ -99,25 +100,30 @@ namespace HW._05.ARRAYS.CODEWARS
         }
 
         public static void Task3()
+        
         {
-            /*Given two arrays of strings a1 and a2 return a sorted array r in lexicographical
-             order of the strings of a1 which are substrings of strings of a2.
-                Example 1:
-            a1 = ["arp", "live", "strong"]
-            a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
-            returns ["arp", "live", "strong"]
-            Example 2:
-            a1 = ["tarp", "mice", "bull"]
-            a2 = ["lively", "alive", "harp", "sharp", "armstrong"]
-            returns []*/
+
+            String[] a1 = {"tarp", "mice", "bull"};
+            String[] a2 = {"lively", "alive", "harp", "sharp", "armstrong"};
+
+            String[] newArray = new string[] { };
+
+            for (int i = 0; i < a1.Length; i++)
+            {
+                for (int j = 0; j < a2.Length; j++)
+                {
+                    if (a2[j].Contains(a1[i]))
+                    { 
+                        Array.Resize(ref newArray, newArray.Length+1);
+                        newArray[newArray.Length - 1] = a1[i];
+                    }
+                }
+            }
             
-            String [] a1 = {"arp", "live", "strong"};
-            String [] a2 = {"lively", "alive", "harp", "sharp", "armstrong"};
-
-            String[] newArray;
+            string[]  dist = newArray.Distinct().ToArray();
+           
+            Console.WriteLine("My string similar items is: " + string.Join(",", dist));
             
-
-
         }
     }
 }
