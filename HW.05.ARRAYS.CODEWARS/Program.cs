@@ -102,9 +102,10 @@ namespace HW._05.ARRAYS.CODEWARS
         public static void Task3()
         
         {
-
-            String[] a1 = {"tarp", "mice", "bull"};
+            String[] a1 = {"arp", "live", "strong"};
             String[] a2 = {"lively", "alive", "harp", "sharp", "armstrong"};
+            //String[] a1 = {"tarp", "mice", "bull"};
+            //String[] a2 = {"lively", "alive", "harp", "sharp", "armstrong"};
 
             String[] newArray = new string[] { };
 
@@ -125,5 +126,11 @@ namespace HW._05.ARRAYS.CODEWARS
             Console.WriteLine("My string similar items is: " + string.Join(",", dist));
             
         }
+
+        public static void Task4()
+        {
+            
+        }
+        
     }
 }
