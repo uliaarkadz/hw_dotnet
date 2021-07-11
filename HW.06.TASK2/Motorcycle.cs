@@ -34,11 +34,11 @@ namespace HW._06.TASK2
             return motorcycle;
         }
         
-        internal Motorcycle GetVinNumber(Guid vin)
+        internal Guid GetVinNumber(Guid vin)
         {
             Motorcycle motorcycle = new Motorcycle();
             motorcycle.vinNumber = vin;
-            return motorcycle;
+            return vin;
         }
         
         internal Motorcycle GetOdometer(int miles)
