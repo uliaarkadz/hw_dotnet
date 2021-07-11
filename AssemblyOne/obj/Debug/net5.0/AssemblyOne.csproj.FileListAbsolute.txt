@@ -1,0 +1,15 @@
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/obj/Debug/net5.0/AssemblyOne.csproj.AssemblyReference.cache
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/obj/Debug/net5.0/AssemblyOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/obj/Debug/net5.0/AssemblyOne.AssemblyInfoInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/obj/Debug/net5.0/AssemblyOne.AssemblyInfo.cs
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/obj/Debug/net5.0/AssemblyOne.csproj.CoreCompileInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/bin/Debug/net5.0/AssemblyOne.deps.json
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/bin/Debug/net5.0/AssemblyOne.runtimeconfig.json
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/bin/Debug/net5.0/AssemblyOne.runtimeconfig.dev.json
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/bin/Debug/net5.0/AssemblyOne.dll
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/bin/Debug/net5.0/ref/AssemblyOne.dll
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/bin/Debug/net5.0/AssemblyOne.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/obj/Debug/net5.0/AssemblyOne.dll
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/obj/Debug/net5.0/ref/AssemblyOne.dll
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/obj/Debug/net5.0/AssemblyOne.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/AssemblyOne/obj/Debug/net5.0/AssemblyOne.genruntimeconfig.cache
