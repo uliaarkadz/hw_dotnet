@@ -1,4 +1,5 @@
 ﻿using System;
+using InputReader;
 
 namespace HW._06.TASK2
 {
@@ -6,11 +7,14 @@ namespace HW._06.TASK2
     {
         static void Main(string[] args)
         {
-            
+            string make;
+            InputReader ir = new InputReader();
             Motorcycle motorcycle = new Motorcycle();
+            
             motorcycle.GetYear();
             Console.WriteLine("Enter motorcycle make:");
-            motorcycle.GetMake(Console.ReadLine(); out string make);
+            motorcycle.GetMake(ir.InputReaderText(out make));
+            
             motorcycle.GetModel("mototpe");
             motorcycle.GetOdometer(160);
             motorcycle.GetVinNumber(new Guid());
@@ -18,6 +22,10 @@ namespace HW._06.TASK2
             engine.GetPower(1000);
             engine.GetVolume(75);
             engine.GetEngineType("Gasoline");
+        }
+
+        private class InputReader
+        {
         }
     }
 }
