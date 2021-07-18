@@ -1,0 +1,15 @@
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/obj/Debug/net5.0/HW08.ITDEPARTMENT.csproj.AssemblyReference.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/obj/Debug/net5.0/HW08.ITDEPARTMENT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/obj/Debug/net5.0/HW08.ITDEPARTMENT.AssemblyInfoInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/obj/Debug/net5.0/HW08.ITDEPARTMENT.AssemblyInfo.cs
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/obj/Debug/net5.0/HW08.ITDEPARTMENT.csproj.CoreCompileInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/bin/Debug/net5.0/HW08.ITDEPARTMENT.deps.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/bin/Debug/net5.0/HW08.ITDEPARTMENT.runtimeconfig.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/bin/Debug/net5.0/HW08.ITDEPARTMENT.runtimeconfig.dev.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/bin/Debug/net5.0/HW08.ITDEPARTMENT.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/bin/Debug/net5.0/ref/HW08.ITDEPARTMENT.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/bin/Debug/net5.0/HW08.ITDEPARTMENT.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/obj/Debug/net5.0/HW08.ITDEPARTMENT.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/obj/Debug/net5.0/ref/HW08.ITDEPARTMENT.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/obj/Debug/net5.0/HW08.ITDEPARTMENT.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW08.ITDEPARTMENT/obj/Debug/net5.0/HW08.ITDEPARTMENT.genruntimeconfig.cache
