@@ -5,7 +5,7 @@ namespace HW._07.TASK02
     public class House
     {
         protected double area;
-        protected Door door;
+        public Door door;
 
         public double Area
         {

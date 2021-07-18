@@ -8,9 +8,8 @@ namespace HW._07.TASK02
         {
             SmallApartment apartment = new SmallApartment(50);
             Person person = new Person("Jhon");
+            apartment.door = new Door("black");
             person.house = apartment;
-            apartment.
-           
             person.ShowData();
         }
     }
