@@ -1,0 +1,15 @@
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/bin/Debug/net5.0/HW.07.TASK3.deps.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/bin/Debug/net5.0/HW.07.TASK3.runtimeconfig.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/bin/Debug/net5.0/HW.07.TASK3.runtimeconfig.dev.json
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/bin/Debug/net5.0/HW.07.TASK3.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/bin/Debug/net5.0/ref/HW.07.TASK3.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/bin/Debug/net5.0/HW.07.TASK3.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/obj/Debug/net5.0/HW.07.TASK3.csproj.AssemblyReference.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/obj/Debug/net5.0/HW.07.TASK3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/obj/Debug/net5.0/HW.07.TASK3.AssemblyInfoInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/obj/Debug/net5.0/HW.07.TASK3.AssemblyInfo.cs
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/obj/Debug/net5.0/HW.07.TASK3.csproj.CoreCompileInputs.cache
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/obj/Debug/net5.0/HW.07.TASK3.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/obj/Debug/net5.0/ref/HW.07.TASK3.dll
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/obj/Debug/net5.0/HW.07.TASK3.pdb
+/Users/ulia/RiderProjects/HW01IMAGE/HW.07.TASK3/obj/Debug/net5.0/HW.07.TASK3.genruntimeconfig.cache
