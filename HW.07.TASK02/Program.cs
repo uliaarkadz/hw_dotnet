@@ -6,7 +6,12 @@ namespace HW._07.TASK02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            SmallApartment apartment = new SmallApartment(50);
+            Person person = new Person("Jhon");
+            person.house = apartment;
+            apartment.
+           
+            person.ShowData();
         }
     }
 }
